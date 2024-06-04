@@ -10,10 +10,10 @@ Controls
 - W or Up Arrow: increment update time by 0.05s
 - S or Down Arrow: decrement update time by 0.05s
 
-I made a similar project in high scchool without an engine and using a text-based interface. This is obviously a much improved version of that, because I wanted to try my hand at it again.
-
 HOW TO RUN THE GAME
 1. Download the zip from the main repository
 2. Extract the files somewhere
 3. Locate and run the GameOfLife.exe file
 4. Windows might try to block it, press more info and run anyway
+
+I made a similar project in high scchool without an engine and using a text-based interface. This is obviously a much improved version of that, because I wanted to try my hand at it again.
